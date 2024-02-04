@@ -7,7 +7,7 @@
   box-sizing: border-box;
   text-decoration: none;
   outline: none; border: none;
-  text-transform:capitalize;
+  /* text-transform:capitalize; */
   transition: all .2s linear;
 }
 html{
@@ -53,7 +53,7 @@ header{
   box-shadow: 0 1px 4px rgba(146,161,176,.3);
 }
 section{
-  min-height: 100vh;
+  min-height: 40vh;
   padding: 2rem 9%;
 }
 .heading{
